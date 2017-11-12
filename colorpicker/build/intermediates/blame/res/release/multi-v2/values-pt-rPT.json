@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/release/values-pt-rPT/values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/res/values-pt-rPT/strings.xml",
+                    "from": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "804,908,1036",
+                        "endColumns": "103,127,148",
+                        "endOffsets": "903,1031,1180"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,209,333",
+                        "endColumns": "103,123,144",
+                        "endOffsets": "204,328,473"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/res/values-pt-rPT/strings.xml",
+                    "from": {
+                        "startLines": "18,19,20",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "804,908,1036",
+                        "endColumns": "103,127,148",
+                        "endOffsets": "903,1031,1180"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,209,333",
+                        "endColumns": "103,123,144",
+                        "endOffsets": "204,328,473"
+                    }
+                }
+            ]
+        }
+    ]
+}

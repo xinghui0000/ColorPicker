@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/androidTest/debug/layout_color_picker_swatch.xml.flat",
+        "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_swatch.xml"
+    },
+    {
+        "merged": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_colorpicker_swatch_selected.png.flat",
+        "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_colorpicker_swatch_selected.png"
+    },
+    {
+        "merged": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/androidTest/debug/drawable_color_picker_swatch.xml.flat",
+        "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/bundles/debug/res/drawable/color_picker_swatch.xml"
+    },
+    {
+        "merged": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/androidTest/debug/layout_color_picker_dialog.xml.flat",
+        "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/bundles/debug/res/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_colorpicker_swatch_selected.png.flat",
+        "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_colorpicker_swatch_selected.png"
+    },
+    {
+        "merged": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_colorpicker_swatch_selected.png.flat",
+        "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_colorpicker_swatch_selected.png"
+    }
+]

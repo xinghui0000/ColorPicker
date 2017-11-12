@@ -1,0 +1,12 @@
+-author 
+-charset 'UTF-8'
+-classpath '/Users/lixinghui/Library/Android/sdk/android-sdk-macosx/platforms/android-26/android.jar'
+-d '/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/docs/javadoc'
+-encoding 'UTF-8'
+-link 'http://docs.oracle.com/javase/7/docs/api'
+-quiet 
+'/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/java/com/android/colorpicker/ColorPickerDialog.java'
+'/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/java/com/android/colorpicker/ColorPickerPalette.java'
+'/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/java/com/android/colorpicker/ColorPickerSwatch.java'
+'/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/java/com/android/colorpicker/ColorStateDrawable.java'
+'/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/java/com/android/colorpicker/HsvColorComparator.java'

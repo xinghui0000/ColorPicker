@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/release/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "16,18,19,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "686,788,846,737",
+                        "endColumns": "50,57,57,50",
+                        "endOffsets": "732,841,899,783"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,156,214,272",
+                        "endColumns": "50,57,57,50",
+                        "endOffsets": "151,209,267,318"
+                    }
+                },
+                {
+                    "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "17,19,21",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "805,928,1103",
+                        "endColumns": "69,112,130",
+                        "endOffsets": "870,1036,1229"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "323,393,502",
+                        "endColumns": "69,108,126",
+                        "endOffsets": "388,497,624"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "16,18,19,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "686,788,846,737",
+                        "endColumns": "50,57,57,50",
+                        "endOffsets": "732,841,899,783"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "105,156,214,272",
+                        "endColumns": "50,57,57,50",
+                        "endOffsets": "151,209,267,318"
+                    }
+                },
+                {
+                    "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "17,19,21",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "805,928,1103",
+                        "endColumns": "69,112,130",
+                        "endOffsets": "870,1036,1229"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "323,393,502",
+                        "endColumns": "69,108,126",
+                        "endOffsets": "388,497,624"
+                    }
+                }
+            ]
+        }
+    ]
+}

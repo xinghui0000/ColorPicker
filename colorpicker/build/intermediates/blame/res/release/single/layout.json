@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/release/layout/color_picker_dialog.xml",
+        "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/res/layout/color_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/build/intermediates/res/merged/release/layout/color_picker_swatch.xml",
+        "source": "/Users/lixinghui/AndroidStudioProjects/Project_Self/ColorPicker/colorpicker/src/main/res/layout/color_picker_swatch.xml"
+    }
+]
